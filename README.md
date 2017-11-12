@@ -119,3 +119,67 @@
 #### 18. 안드로이드 Thread 연습
   >
   [Thread-Practice](https://github.com/jis1218/Thread-Practice)
+
+#### 19. 푸쉬푸쉬 게임
+>
+[Push Push Game](https://github.com/jis1218/Push-Push-Game-using-View)
+
+#### 20. 테트리스 게임
+>
+[Tetris](https://github.com/jis1218/Tetris)
+
+#### 21. AsyncTask 연습
+>
+[AsyncTask Practice](https://github.com/jis1218/AsyncTaskPrac)
+
+#### 22. JSON을 이용해 데이터 가져오는 것 연습
+>
+[JSON Practice](https://github.com/jis1218/JSon-data-Prac)
+
+#### 23. JSON을 이용해 서울시 자전거 보관소 위치 가져오는 것 연습
+>
+[GoogleMapPractice_using_JSON](https://github.com/jis1218/GoogleMapPractice_using_JSON)
+
+#### 24. JSON을 이용하여 환승역 정보 앱에 뿌려주기
+>
+[TransferStationInfo_using_JSON](https://github.com/jis1218/TransferStationInfo_using_JSON)
+
+#### 25. 안드로이드 서비스 연습
+>
+[Service-Practice](https://github.com/jis1218/Service-Practice)
+
+#### 26. 지하철 앱 만들어보기
+>
+[Subway App](https://github.com/jis1218/SubwayApp)
+
+#### 27. 음악 플레이어 만들어보기
+>
+[Music Player](https://github.com/jis1218/MusicPlayer)
+
+#### 28. 서버 구축하는 방법과 서버에 접근하는 법
+>
+[Creating Server Using NodeJS](https://github.com/jis1218/CreatingServerUsingNodeJS)
+
+#### 29. Firebase 연습
+>
+[FirebasePrac](https://github.com/jis1218/FirebasePrac)
+
+#### 30. NodeJS와 MongoDB를 이용하여 서버 구축
+>
+[Server-using-NodeJS-and-MongoDB](https://github.com/jis1218/Server-using-NodeJS-and-MongoDB)
+
+#### 31. Firebase를 이용해 로그인, 파일업로드, 노티피케이션 연습
+>
+[FirebasePrac2](https://github.com/jis1218/FirebasePrac2)
+
+#### 32. Firebase 를 이용한 간단한 채팅앱
+>
+[FirebaseChattingApp](https://github.com/jis1218/FirebaseChattingApp)
+
+#### 33. Between 앱 따라해보기
+>
+[Between_Project](https://github.com/jis1218/Between_Project)
+
+#### 34. Between 앱 완성본(팀 프로젝트)
+>
+[Between 프로젝트 공유](https://github.com/jis1218/Between_Share)
