@@ -183,3 +183,23 @@
 #### 34. Between 앱 완성본(팀 프로젝트)
 >
 [Between 프로젝트 공유](https://github.com/jis1218/Between_Share)
+
+#### 35. RxAndroid 연습
+>
+[RxAndroid 연습](https://github.com/jis1218/RxAndroid-Practice)
+
+#### 36. RxBinding 연습
+>
+[RxBinding 연습](https://github.com/jis1218/Rx-Binding-Prac)
+
+#### 37. RxRetrofit 연습
+>
+[RxRetrofit 연습](https://github.com/jis1218/Rx-Retrofit-Prac)
+
+#### 38. Realm 연습
+>
+[Realm을 이용한 DB 연습](https://github.com/jis1218/Realm_prac)
+
+#### 39. MVVM 연습
+>
+[MVVM 패턴 연습](https://github.com/jis1218/MVVM-Prac)
