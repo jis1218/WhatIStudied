@@ -1,6 +1,28 @@
 # 지금까지 공부한 것 리스트
 
+## 프로젝트 모음
+#### 1. 사칙연산 순서대로 계산해주는 계산기
+  >
+  [UpgradedCalculator](https://github.com/jis1218/UpgradedCalculator)
+
+#### 2. 테트리스 게임
+>
+[Tetris](https://github.com/jis1218/Tetris)
+
+#### 3. 푸쉬푸쉬 게임
+>
+[Push Push Game](https://github.com/jis1218/Push-Push-Game-using-View)
+
+#### 4. Between 앱 완성본(팀 프로젝트)
+>
+[Between 프로젝트 공유](https://github.com/jis1218/Between_Share)
+
+#### 5. Explog 프로젝트
+>
+[Explog(여행앱) 프로젝트](https://github.com/jis1218/Explog)
+
 ## Java
+
 
 #### 1. 접근자, 변수 설정, 연산 및 출력 연습
    > [Variable-and-Arithimetic](https://github.com/jis1218/Variable-and-Arithimetic)
@@ -204,5 +226,6 @@
 >
 [MVVM 패턴 연습](https://github.com/jis1218/MVVM-Prac)
 
-
 #### 40. Explog 프로젝트
+>
+[Explog(여행앱) 프로젝트](https://github.com/jis1218/Explog)
