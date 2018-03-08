@@ -21,6 +21,15 @@
 >
 [Explog(여행앱) 프로젝트](https://github.com/jis1218/Explog)
 
+## Machine Learning
+#### 1. Single Layer Neural Network 예시 (Stochastic, Batch) 
+>
+[Single Layer Neural Network](https://github.com/jis1218/DeltaSGD)
+
+#### 2. Multi Layer Neural Network 예시 (Back Propagation Algorithm)
+>
+[Multi Layer Neural Network](https://github.com/jis1218/Back-Propagation-Algorithm)
+
 ## Java
 
 
